@@ -4,11 +4,6 @@
     "comment": "Blank",
     "properties": {}
   },
-  "Box": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
-  },
   "Kitty": {
     "type": "object",
     "comment": "Blank",
