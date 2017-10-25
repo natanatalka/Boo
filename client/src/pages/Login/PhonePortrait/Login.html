@@ -10,7 +10,7 @@
         <ion-col class="middle-col" data-comp-id="column.1" text-center="">
             <ion-list data-comp-id="list.1">
                 <ion-item color="secondary" data-comp-id="input.1" style="">
-                    <ion-label fixed="">Username</ion-label>
+                    <ion-label class=" required" fixed="">Username</ion-label>
                     <ion-input [(ngModel)]="data.username" type="text"></ion-input>
                 </ion-item>
             </ion-list>
@@ -28,7 +28,8 @@
     </ion-row>
     <ion-row data-comp-id="row.3">
         <ion-col class="button-col" data-comp-id="column.3" text-center="">
-            <button (click)="action('submit')" data-comp-id="button.1" ion-button="">Login</button>
+            <button (click)="action('submit')" class="button-label-secondary"
+                data-comp-id="button.1" ion-button="" style="">Login</button>
         </ion-col>
     </ion-row>
 </ion-content>
