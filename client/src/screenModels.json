@@ -1,2 +1,7 @@
 {
+  "Folder": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
+  }
 }

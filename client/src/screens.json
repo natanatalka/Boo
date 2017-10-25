@@ -1,5 +1,12 @@
 {
   "id": "__BASE__",
   "name": "Boo",
-  "screens": []
+  "screens": [
+    {
+      "id": "Folder",
+      "name": "folder",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    }
+  ]
 }
