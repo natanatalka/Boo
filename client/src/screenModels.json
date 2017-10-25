@@ -3,5 +3,10 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
+  },
+  "Box": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }
