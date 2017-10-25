@@ -20,12 +20,6 @@
       "name": "Box",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
-    },
-    {
-      "id": "Kitty",
-      "name": "Kitty",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
     }
   ]
 }
