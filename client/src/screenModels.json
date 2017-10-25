@@ -8,5 +8,10 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
+  },
+  "Cat": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }
